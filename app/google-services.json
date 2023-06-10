@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "723459265040",
+    "project_id": "materialtodo-503e7",
+    "storage_bucket": "materialtodo-503e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723459265040:android:8dee9ee4a7dfb369cc7095",
+        "android_client_info": {
+          "package_name": "com.example.materialtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723459265040-o0dlhgmmjkkcgh49dgqdqeq7g24nijuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.materialtodo",
+            "certificate_hash": "d8fc6e2fb4129e8abe3aa5841d0734bb79316acc"
+          }
+        },
+        {
+          "client_id": "723459265040-0sqshtkijtsr6vhimcgbr1q68104jp48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3mBcA5GwoNU0jnTaYtXFBOHXMEM1HjEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723459265040-0sqshtkijtsr6vhimcgbr1q68104jp48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
